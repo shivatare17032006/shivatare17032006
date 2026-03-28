@@ -1,13 +1,13 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Aryan%20Santosh%20Shivatare&fontSize=42&fontColor=00d4ff&animation=twinkling&fontAlignY=36&desc=MERN%20Stack%20%7C%20Flutter%20%7C%20AI%20%26%20Data%20Science&descAlignY=56&descAlign=50&descSize=18&descColor=8b9cc8" width="100%"/>
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=200&section=header&text=Aryan%20Santosh%20Shivatare&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MERN%20Stack%20%7C%20Flutter%20%7C%20AI%20%26%20Data%20Science&descAlignY=56&descAlign=50&descSize=18&descColor=fff" width="100%"/>
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Flutter+App+Developer+%F0%9F%93%B1;AI+%26+Data+Science+Practitioner+%F0%9F%A4%96;Building+Real+Solutions+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+ 
 <img src="https://komarev.com/ghpvc/?username=shivatare17032006&label=Profile%20Views&color=00d4ff&style=flat-square" />
-
+ 
 </div>
-
+ 
 ---
 
 ## 👨‍💻 About Me
