@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Flutter+App+Developer+%F0%9F%93%B1;AI+%26+Data+Science+Practitioner+%F0%9F%A4%96;Building+Real+Solutions+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![views](https://komarev.com/ghpvc/?username=shivatare17032006&label=Profile%20Views&color=00d4ff&style=flat-square)
-![VIT Pune](https://img.shields.io/badge/VIT%20Pune-CGPA%209.54-00d4ff?style=flat-square)
 ![Location](https://img.shields.io/badge/Pune-Maharashtra%20🇮🇳-0d1117?style=flat-square)
 
 </div>
