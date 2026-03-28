@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=210&section=header&text=Aryan%20Santosh%20Shivatare&fontSize=40&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%7C%20Flutter%20%7C%20AI%20%26%20Data%20Science&descAlignY=57&descAlign=50&descSize=18&descColor=a0a0c0" width="100%"/>
 
