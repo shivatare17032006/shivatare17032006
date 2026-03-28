@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Aryan Santosh Shivatare
+# 👋 Hi, I'm Aryan  Shivatare
 
 ### 🖥️ MERN Stack Dev &nbsp;|&nbsp; 📱 Flutter Dev &nbsp;|&nbsp; 🤖 AI & Data Science
 
