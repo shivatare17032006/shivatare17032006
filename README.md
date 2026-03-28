@@ -1,12 +1,18 @@
 <div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=200&section=header&text=Aryan%20Santosh%20Shivatare&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MERN%20Stack%20%7C%20Flutter%20%7C%20AI%20%26%20Data%20Science&descAlignY=56&descAlign=50&descSize=18&descColor=fff)
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Flutter+App+Developer+%F0%9F%93%B1;AI+%26+Data+Science+Practitioner+%F0%9F%A4%96;Building+Real+Solutions+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
- 
+
+# 👋 Hi, I'm Aryan Santosh Shivatare
+
+### 🖥️ MERN Stack Dev &nbsp;|&nbsp; 📱 Flutter Dev &nbsp;|&nbsp; 🤖 AI & Data Science
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Flutter+App+Developer+%F0%9F%93%B1;AI+%26+Data+Science+Practitioner+%F0%9F%A4%96;Building+Real+Solutions+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 ![views](https://komarev.com/ghpvc/?username=shivatare17032006&label=Profile%20Views&color=00d4ff&style=flat-square)
- 
+![VIT Pune](https://img.shields.io/badge/VIT%20Pune-CGPA%209.54-00d4ff?style=flat-square)
+![Location](https://img.shields.io/badge/Pune-Maharashtra%20🇮🇳-0d1117?style=flat-square)
+
 </div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -77,14 +83,12 @@ const aryan = {
 
 ---
 
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=shivatare17032006&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivatare17032006&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=shivatare17032006&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivatare17032006&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9)
 
 </div>
 
@@ -130,7 +134,7 @@ const aryan = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=twinkling" width="100%"/>
+---
 
 **`"Build. Break. Learn. Repeat."`**
 
