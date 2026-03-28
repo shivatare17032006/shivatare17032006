@@ -98,16 +98,6 @@ const aryan = {
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shivatare17032006&theme=darkhub&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
