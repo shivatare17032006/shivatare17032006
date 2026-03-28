@@ -20,7 +20,6 @@
 const aryan = {
   name      : "Aryan Santosh Shivatare",
   college   : "Vishwakarma Institute of Technology, Pune 🎓",
-  cgpa      : 9.54,
   roles     : ["MERN Stack Dev", "Flutter Dev", "AI & Data Science"],
   location  : "Pune, Maharashtra 🇮🇳",
   motto     : "Build fast. Learn faster. Ship smarter. 🚀",
